@@ -1,9 +1,5 @@
 import React from 'react';
 
-// eslint-disable-next-line import/no-unassigned-import
-import '@ag-grid-community/styles/ag-grid.css';
-// eslint-disable-next-line import/no-unassigned-import
-import '@ag-grid-community/styles/ag-theme-alpine.css';
 import { useNhlStandings } from '../api/api';
 
 import { NhlDivisionStandings } from './NhlDivisionStandings';

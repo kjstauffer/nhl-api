@@ -7,6 +7,7 @@ import type { ColDef } from '@ag-grid-community/core';
 import '@ag-grid-community/styles/ag-grid.css';
 // eslint-disable-next-line import/no-unassigned-import
 import '@ag-grid-community/styles/ag-theme-alpine.css';
+
 import type { NhlStandingsRecord, NhlTeamRecord } from '../api/types';
 
 type NhlDivisionStandingsProps = {

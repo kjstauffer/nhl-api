@@ -1,9 +1,9 @@
 {
-  "name": "sample-vite-project1",
-  "version": "1.0.0",
+  "name": "nhl-api",
+  "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "git://github.com/kjstauffer/sample-vite-project1.git"
+    "url": "git://github.com/kjstauffer/nhl-api.git"
   },
   "type": "module",
   "engines": {
@@ -20,7 +20,6 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "@ianvs/prettier-plugin-sort-imports": "^4.1.0",
     "@swc/core": "^1.3.83",
     "@types/node": "^20.6.0",
     "@types/react": "^18.2.21",
